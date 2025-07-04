@@ -109,7 +109,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/igorr0cha/igorr0cha/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/edulucca/edulucca/output/snake.svg" alt="Snake animation" />
 
 ###
 
