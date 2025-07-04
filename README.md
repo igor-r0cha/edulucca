@@ -14,30 +14,23 @@
 
 <p align="left">Sou uma pessoa curiosa por natureza, analítica e estratégica no que faço. Gosto de entender como as coisas funcionam — seja no código, na política, no mercado financeiro ou toda mecãnica de carros. Investimentos me instigam, debates me movem e a tecnologia é o meu jeito de transformar ideias em realidade.</p>
 
-###
-
-<h3 align="left">Sobre mim</h3>
-
-###
+## Sobre mim
+<br>
 
 <p align="left">📎 Analista e Desenvolvedor de Sistemas formado pelo Centro <br>📎 Universitário de Brasília - CEUB, <br>📎 Pós-graduado em Engenharia de Software pelo Instituto INFNET. <br>📎 Fazendo minha Segunda Graduação em Computação - UnB<br>📎 Atualmente, trabalho como desenvolvedor Java e PL/SQL para a Ericsson Inovação S.A.</p>
+<br>
 
-###
-
-<h2 align="left">Estatísticas</h2>
-
-###
+## Estatísticas
+<br>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=edulucca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1&custom_title=Eduardo's%20GitHub%20Stats" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edulucca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+<br>
 
-###
-
-<h2 align="left">Linguagens e Tecnologias</h2>
-
-###
+## Linguagens e Tecnologias
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -60,12 +53,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
+<br>
 
-###
-
-<h2 align="left">Banco de dados e Nuvem</h2>
-
-###
+## Banco de dados e Nuvem
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -78,12 +69,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
+<br>
 
-###
-
-<h2 align="left">Ferramentas e Ecossistema de Trabalho</h2>
-
-###
+## Ferramentas e Ecossistema de Trabalho
+<br>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  />
@@ -98,12 +87,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
+<br>
 
-###
-
-<h2 align="left">Entre em contato comigo:</h2>
-
-###
+## Entre em contato comigo:
+<br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/eduardodelucca/" target="_blank">
