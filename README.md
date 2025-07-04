@@ -8,7 +8,7 @@
 
 ###
 
-`Desenvolvedor Java na Ericsson Inovação`
+`Desenvolvedor Java`
 
 ###
 
