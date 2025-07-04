@@ -107,6 +107,10 @@
   </a>
 </div>
 
+<br>
+
+<img src="https://raw.githubusercontent.com/igorr0cha/igorr0cha/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <br><br>
