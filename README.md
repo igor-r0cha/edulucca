@@ -107,4 +107,6 @@
   </a>
 </div>
 
+<img src="https://raw.githubusercontent.com/edulucca/edulucca/output/snake.svg" alt="Snake animation" />
+
 ###
