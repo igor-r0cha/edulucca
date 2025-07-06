@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">👨‍💻 Eduardo Lucca</h1>
+<h1 align="left">👨‍💻 Eduardo de Lucca</h1>
 
 ###
 
@@ -17,7 +17,7 @@
 ## Sobre mim
 <br>
 
-<p align="left">📎 Analista e Desenvolvedor de Sistemas formado pelo Centro <br>📎 Universitário de Brasília - CEUB, <br>📎 Pós-graduado em Engenharia de Software pelo Instituto INFNET. <br>📎 Fazendo minha Segunda Graduação em Computação - UnB<br>📎 Atualmente, trabalho como desenvolvedor Java e PL/SQL para a Ericsson Inovação S.A.</p>
+<p align="left">📎 Analista e Desenvolvedor de Sistemas - Centro Universitário de Brasília (CEUB). <br>📎 Pós-graduado em Engenharia de Software - Instituto INFNET. <br>📎 Computação - Universidade de Brasília (UNB)<br>📎 Altualmente trabalhando como Desenvolvedor Java e PL/SQL na Ericsson Inovação S.A.</p>
 
 
 ## Estatísticas
@@ -28,6 +28,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edulucca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<br> 
+
+<div align="left">
+  <div style="display: flex; justify-content: center">
+    <img
+      height=165
+      align="center"
+      alt="Top Language"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=edulucca&layout=compact&font=Iosevka&langs_count=16&theme=chartreuse-dark"
+    />
+    <img
+      height=165
+      align="center"
+      alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api/?username=edulucca&show_icons=true&count_private=true&rank_icon=github&theme=chartreuse-dark&font=Iosevka"
+    />
+  </div>
 
 ## Linguagens e Tecnologias
 <br>
