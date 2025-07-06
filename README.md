@@ -9,7 +9,7 @@
 
 ###
 
-`Desenvolvedor Java`
+`Desenvolvedor FullStack Java | PL/SQL`
 
 ###
 
