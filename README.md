@@ -1,4 +1,5 @@
 <div align="center">
+  <p> visitas ao meu perfil</p>
   <img src="https://profile-counter.glitch.me/edulucca/count.svg?"  />
 </div>
 
