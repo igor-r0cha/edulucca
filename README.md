@@ -61,15 +61,15 @@
 ## Banco de dados e Nuvem
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mssql" height="40" alt="microsoftsqlserver logo"  />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=oracle" height="40" alt="oracle logo"  />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  &nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=sqlserver" height="40" alt="microsoftsqlserver logo"  />
+  &nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/oracle/white" height="40" alt="oracle logo" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </p>
 
 ## Ferramentas e Ecossistema de Trabalho
