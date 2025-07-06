@@ -16,7 +16,7 @@
 <p align="left">Sou uma pessoa curiosa por natureza, analítica e estratégica no que faço. Gosto de entender como as coisas funcionam — seja no código, na política, no mercado financeiro ou toda mecânica de carros. Investimentos me instigam, debates me movem e a tecnologia é o meu jeito de transformar ideias em realidade.</p>
 
 ## Sobre mim
-<p align="left">📎 Analista e Desenvolvedor de Sistemas - Centro Universitário de Brasília (CEUB). <br>📎 Pós-graduado em Engenharia de Software - Instituto INFNET. <br>📎 Computação - Universidade de Brasília (UNB)<br>📎 Altualmente trabalhando como Desenvolvedor Java e PL/SQL na Ericsson Inovação S.A.</p>
+<p align="left">📎 Analista e Desenvolvedor de Sistemas - Centro Universitário de Brasília (CEUB). <br>📎 Pós-graduado em Engenharia de Software - Instituto INFNET. <br>📎 Computação - Universidade de Brasília (UNB)<br>📎 Altualmente trabalhando como <b>Desenvolvedor Java</b> e PL/SQL na Ericsson Inovação S.A.</p>
 
 ## Estatísticas
 <div align="left">
