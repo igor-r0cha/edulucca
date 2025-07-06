@@ -60,17 +60,17 @@
 
 ## Banco de dados e Nuvem
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=sqlserver" height="40" alt="microsoftsqlserver logo"  />
-  &nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/oracle/white" height="40" alt="oracle logo" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</div>
 
 ## Ferramentas e Ecossistema de Trabalho
 <p align="left">
