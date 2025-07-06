@@ -23,29 +23,6 @@
 ## Estatísticas
 <br>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=edulucca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false&order=1&custom_title=Eduardo's%20GitHub%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edulucca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-<br> 
-
-<div align="left">
-  <div style="display: flex; justify-content: center">
-    <img
-      height=165
-      align="center"
-      alt="Top Language"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=edulucca&layout=compact&font=Iosevka&langs_count=16&theme=chartreuse-dark"
-    />
-    <img
-      height=165
-      align="center"
-      alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api/?username=edulucca&show_icons=true&count_private=true&rank_icon=github&theme=chartreuse-dark&font=Iosevka"
-    />
-  </div>
-
 <br>
 <div align="left">
   <div style="display: flex; justify-content: center">
