@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/edulucca/count.svg?"  />
-</div>
+</div> <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=102b79"/>
 
 ###
