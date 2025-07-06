@@ -46,6 +46,23 @@
     />
   </div>
 
+<br>
+<div align="left">
+  <div style="display: flex; justify-content: center">
+    <img
+      height=165
+      align="center"
+      alt="Top Language"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=edulucca&layout=compact&font=Iosevka&langs_count=16&theme=bluegreen"
+    />
+    <img
+      height=165
+      align="center"
+      alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api/?username=edulucca&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=chartreuse-dark &font=Iosevka"
+    />
+  </div>
+
 ## Linguagens e Tecnologias
 <br>
 
