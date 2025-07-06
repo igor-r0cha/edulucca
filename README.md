@@ -15,35 +15,32 @@
 
 <p align="left">Sou uma pessoa curiosa por natureza, analítica e estratégica no que faço. Gosto de entender como as coisas funcionam — seja no código, na política, no mercado financeiro ou toda mecânica de carros. Investimentos me instigam, debates me movem e a tecnologia é o meu jeito de transformar ideias em realidade.</p>
 
-## Sobre mim
 <br>
-
+## Sobre mim
 <p align="left">📎 Analista e Desenvolvedor de Sistemas - Centro Universitário de Brasília (CEUB). <br>📎 Pós-graduado em Engenharia de Software - Instituto INFNET. <br>📎 Computação - Universidade de Brasília (UNB)<br>📎 Altualmente trabalhando como Desenvolvedor Java e PL/SQL na Ericsson Inovação S.A.</p>
 
-
-## Estatísticas
 <br>
 
+## Estatísticas
 <br>
 <div align="left">
   <div style="display: flex; justify-content: center">
     <img
       height=165
       align="center"
-      alt="Top Language"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=edulucca&layout=compact&font=Iosevka&langs_count=16&theme=blue-green"
+      alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api/?username=edulucca&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=blue-green&font=Iosevka"
     />
     <img
       height=165
       align="center"
-      alt="GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api/?username=edulucca&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=blue-green&font=Iosevka"
+      alt="Top Language"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=edulucca&layout=compact&font=Iosevka&langs_count=16&theme=blue-green"
     />
   </div>
-
-## Linguagens e Tecnologias
+  
 <br>
-
+## Linguagens e Tecnologias
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   &nbsp;&nbsp;&nbsp;
@@ -66,9 +63,9 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </p>
 
+<br>
 
 ## Banco de dados e Nuvem
-<br>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo"  />
@@ -81,11 +78,9 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </p>
-
-
-## Ferramentas e Ecossistema de Trabalho
 <br>
 
+## Ferramentas e Ecossistema de Trabalho
 <p align="left">
   <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
   &nbsp;&nbsp;&nbsp;
@@ -99,11 +94,9 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </p>
-
-
-## Entre em contato comigo:
 <br>
 
+## Entre em contato comigo:
 <p align="left">
   <a href="https://www.linkedin.com/in/eduardodelucca/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
